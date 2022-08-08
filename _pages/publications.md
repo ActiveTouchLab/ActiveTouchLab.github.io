@@ -27,7 +27,7 @@ See also Hannes' [Google Scholar](https://scholar.google.com/citations?user=1eUt
  <div class="well">
   <pubtit>{{ publi.title }}</pubtit>
   <p><em>{{ publi.authors }}</em></p>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/pubs/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/pubs/{{ publi.image }}" class="img-responsive" width="40%" style="float: left" />
   <p>{{ publi.description }}</p>
   <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>
   <p><strong> {{ publi.news1 }}</strong></p>

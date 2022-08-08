@@ -1,3 +1,13 @@
+- title: "Expansion and contraction of resource allocation in sensory bottlenecks"
+  image: Edmondson_Allocation.png
+  description: 	We show that a simple efficient coding model predicts complex trade-offs in resource allocation for sensory inputs with heterogeneous receptor densities and activation levels. These results provide a theoretical framework that explains why some body regions are magnified in somatosensory cortex.
+  authors: Edmondson LR, Jimenez Rodriguez A, Saal HP
+  link:
+    url: https://doi.org/10.7554/eLife.70777
+    display:  eLife 11, e70777 (2022)
+  highlight: 1
+  news1:
+
 - title: "Getting a grasp on BMIs: Decoding prehension and speech signals"
   image:
   description:
@@ -34,15 +44,6 @@
     display:  bioRxiv 2021.11.08.467674 (2021)
   highlight: 0
 
-- title: "Expansion and contraction of resource allocation in sensory bottlenecks"
-  image:
-  description:
-  authors: Edmondson LR, Jimenez Rodriguez A, Saal HP
-  link:
-    url: https://doi.org/10.1101/2021.05.26.445857
-    display:  bioRxiv 2021.05.26.445857 (2021)
-  highlight: 0
-
 - title: "Tactile innervation densities across the whole body"
   image: innervation.png
   description: This paper contains estimates for innervation densities of low-threshold mechanoreceptive afferents across the whole body, based on evidence from microneurography, histology, and immunohistochemistry.
@@ -60,7 +61,7 @@
   link:
     url: http://papers.nips.cc/paper/8972-nonlinear-scaling-of-resource-allocation-in-sensory-bottlenecks
     display: Advances in Neural Information Processing Systems (NeurIPS) 2019
-  highlight: 1
+  highlight: 0
   news1: Check out the <a href="https://figshare.shef.ac.uk/articles/poster/NeurIPS_2019_poster_Nonlinear_scaling_of_resource_allocation_in_sensory_bottlenecks/11298953">poster</a> and a <a href="https://www.youtube.com/watch?v=M6ohnt_6J9Q">3-minute video</a>, where Laura explains the findings.
   news2:
 
