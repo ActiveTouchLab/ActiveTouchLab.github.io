@@ -1,3 +1,12 @@
+- title: "Population coding strategies in human tactile afferents"
+  image:
+  description:
+  authors: Corniani G, Casal MA, Panzeri S, Saal HP
+  link:
+    url: https://doi.org/10.1371/journal.pcbi.1010763
+    display:  PLOS Computational Biology 18(12), e1010763 (2022)
+  highlight: 0
+
 - title: "Expansion and contraction of resource allocation in sensory bottlenecks"
   image: Edmondson_Allocation.png
   description: 	We show that a simple efficient coding model predicts complex trade-offs in resource allocation for sensory inputs with heterogeneous receptor densities and activation levels. These results provide a theoretical framework that explains why some body regions are magnified in somatosensory cortex.
@@ -15,15 +24,6 @@
   link:
     url: http://dx.doi.org/10.1016/j.neuron.2022.05.004
     display:  Neuron 110(11), 1743-1745 (2022) <a/><i>[Preview for <a href="http://dx.doi.org/10.1016/j.neuron.2022.03.009">Wandelt et al. 2022</a>]</i><a>
-  highlight: 0
-
-- title: "Population coding strategies in human tactile afferents"
-  image:
-  description:
-  authors: Corniani G, Casal MA, Panzeri S, Saal HP
-  link:
-    url: https://doi.org/10.1101/2022.05.04.490609
-    display:  bioRxiv 2022.05.04.490609 (2022)
   highlight: 0
 
 - title: "Malleability of the cortical hand map following a finger nerve block"
