@@ -76,7 +76,18 @@
   orcid:
   description: I am a PhD student co-supervised by Hannes Saal and Claudia Mazza. I previously worked as a software engineer following my undergraduate degree in Engineering. My project looks at how peripheral neuropathy in the feet affects tactile feedback and reflexes in gait and balance.
 -
-  name: Mia Rupani
+  name: Rory Holmes
+  photo: Rory.png
+  status: CASE PhD Student
+  email: rtholmes1@sheffield.ac.uk
+  uni-website:
+  twitter:
+  github:
+  gscholar:
+  orcid:
+  description: I am a CASE PhD student co-supervised by Hannes Saal and Michael Mangan, working in collaboration with Opteran Technologies. My project aims to develop novel architectures for robotic control, inspired by the sensorimotor systems found in animals and their ability to adapt to changes in the environment and body morphology.
+-
+name: Mia Rupani
   photo: Mia.png
   status: Research Intern / Technical Support
   email: mrupani1@sheffield.ac.uk
