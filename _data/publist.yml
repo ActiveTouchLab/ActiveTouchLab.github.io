@@ -1,10 +1,19 @@
+- title: "Complexity of spatiotemporal plantar pressure patterns during everyday behaviours"
+  image:
+  description:
+  authors: Cleland LD, Rowland HM, Mazzà C, Saal HP
+  link:
+    url: https://doi.org/10.1101/2023.01.27.525870
+    display:  bioRxiv, 2023.01.27.525870 (2023)
+  highlight: 0
+
 - title: "Modelling foot sole cutaneous afferents: FootSim"
   image: footsim.png
   description: We developed a Python simulator that recreates realistic neural responses from tactile afferents terminating in the sole of the foot.
-  authors: Katic N, Siqueira R, Cleland LC, Strzalkowski N, Bent L, Raspopovic S, Saal HP
+  authors: Katic N, Siqueira RK, Cleland LD, Strzalkowski N, Bent L, Raspopovic S, Saal HP
   link:
     url: https://doi.org/10.1016/j.isci.2022.105874
-    display:  iScience, 105874 (2022)
+    display:  iScience, 26(1):105874 (2023)
   highlight: 1
   news1: "Download the Python package from [Github](https://github.com/ActiveTouchLab/footsim-python) or try it out online via [myBinder](https://mybinder.org/v2/gh/ActiveTouchLab/footsim-python/main?filepath=Tutorial.ipynb)."
 
