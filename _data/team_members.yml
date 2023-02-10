@@ -32,16 +32,16 @@
   orcid: 0000-0001-9886-1121
   description: I am a research associate investigating mechanisms that influence topography and magnification in the somatosensory cortex of both humans and non-human primates. I was previously a PhD student in the lab, focusing on modelling somatosensory cortex using dimensionality reduction techniques and self-organising models.
 -
-  name: Giulia Corniani
+  name: Dr Giulia Corniani
   photo: Giulia.png
-  status: PhD student, Marie Curie fellow
+  status: Marie Curie fellow
   email: gcorniani1@sheffield.ac.uk
   uni-website:
   twitter: CornianiGiulia
   github:
   gscholar: qyQ9xX0AAAAJ
   orcid: 0000-0003-2800-3329
-  description: I am a PhD student supervised by Hannes Saal. I am part of the <a href="https://neutouch.eu/">NeuTouch</a> project, included in the EU Horizon 2020 research and innovation programme. My research focuses on the spiking models of realistic human tactile interactions. I am interested in the development of a computational method that translates sensor input into spiking output to deliver realistic and real-time tactile feedback for neuroprosthetics and robotics.
+  description: I am a research fellow supervised by Hannes Saal. I am part of the <a href="https://neutouch.eu/">NeuTouch</a> project, included in the EU Horizon 2020 research and innovation programme. My research focuses on spiking models of realistic human tactile interactions. I am interested in the development of a computational method that translates sensor input into spiking output to deliver realistic and real-time tactile feedback for neuroprosthetics and robotics.
 -
   name: Luke D Cleland
   photo: Luke.jpg
@@ -108,3 +108,14 @@
   gscholar:
   orcid:
   description: I am a second year Psychology student, peer learning leader and student ambassador at the University of Sheffield. Additionally, I am honoured to be part of a computational neuroscience group, by providing my assistance in any way necessary and possible.
+-
+  name: Raj U Deshpande
+  photo: Raj.jpg
+  status: CCN MSc dissertation student
+  email: rudeshpande1@sheffield.ac.uk
+  uni-website:
+  twitter:
+  github:
+  gscholar:
+  orcid:
+  description: I am a postgraduate student studying cognitive and computational neuroscience. Being a robotics engineering graduate, I am interested in bridging the gap between neuroscience and engineering through exploring imaging technologies and artificial neural networks. My master's project will be focusing on using optical coherence tomography (OCT) to study sub-surface skin features.
