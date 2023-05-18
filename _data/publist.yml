@@ -1,3 +1,21 @@
+- title: "Memory at your fingertips: how viscoelasticity affects tactile neuron signaling"
+  image:
+  description:
+  authors: Saal HP, Birznieks I, Johansson RS
+  link:
+    url: https://doi.org/10.1101/2023.05.15.540820
+    display:  bioRxiv, 2023.05.15.540820 (2023)
+  highlight: 0
+
+- title: "Modelling novelty detection in the thalamocortical loop"
+  image:
+  description:
+  authors: Han C, English G, Saal HP, Indiveri G, Gilra A, von der Behrens W, Vasilaki E
+  link:
+    url: https://doi.org/10.1371/journal.pcbi.1009616
+    display:  PLOS Computational Biology 19(5), e1009616 (2023)
+  highlight: 0
+
 - title: "Similar somatotopy for active and passive digit representation in primary somatosensory cortex"
   image:
   description:
@@ -61,15 +79,6 @@
   link:
     url: https://doi.org/10.1126/sciadv.abk2393
     display:  Science Advances 8(16), eabk2393 (2022)
-  highlight: 0
-
-- title: "Modelling novelty detection in the thalamocortical loop"
-  image:
-  description:
-  authors: Han C, English G, Saal HP, Indiveri G, Gilra A, von der Behrens W, Vasilaki E
-  link:
-    url: https://doi.org/10.1101/2021.11.08.467674
-    display:  bioRxiv 2021.11.08.467674 (2021)
   highlight: 0
 
 - title: "Tactile innervation densities across the whole body"
