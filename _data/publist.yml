@@ -1,3 +1,12 @@
+- title: "Complexity of spatiotemporal plantar pressure patterns during everyday behaviours"
+  image:
+  description:
+  authors: Cleland LD, Rowland HM, Mazzà C, Saal HP
+  link:
+    url: https://doi.org/10.1098/rsif.2023.0052
+    display:  Journal of the Royal Society Interface 20(203), 20230052 (2023)
+  highlight: 0
+
 - title: "Memory at your fingertips: how viscoelasticity affects tactile neuron signaling"
   image:
   description:
@@ -22,16 +31,7 @@
   authors: Sanders Z, Dempsey-Jones H, Wesselink DB, Edmondson LR, Puckett AM, Saal HP, Makin TR
   link:
     url: https://doi.org/10.1002/hbm.26298
-    display:  Human Brain Mapping (2023)
-  highlight: 0
-
-- title: "Complexity of spatiotemporal plantar pressure patterns during everyday behaviours"
-  image:
-  description:
-  authors: Cleland LD, Rowland HM, Mazzà C, Saal HP
-  link:
-    url: https://doi.org/10.1101/2023.01.27.525870
-    display:  bioRxiv, 2023.01.27.525870 (2023)
+    display:  Human Brain Mapping 44(9):3568-3585 (2023)
   highlight: 0
 
 - title: "Modelling foot sole cutaneous afferents: FootSim"
@@ -40,7 +40,7 @@
   authors: Katic N, Siqueira RK, Cleland LD, Strzalkowski N, Bent L, Raspopovic S, Saal HP
   link:
     url: https://doi.org/10.1016/j.isci.2022.105874
-    display:  iScience, 26(1):105874 (2023)
+    display:  iScience, 26(1), 105874 (2023)
   highlight: 1
   news1: "Download the Python package from [Github](https://github.com/ActiveTouchLab/footsim-python) or try it out online via [myBinder](https://mybinder.org/v2/gh/ActiveTouchLab/footsim-python/main?filepath=Tutorial.ipynb)."
 
