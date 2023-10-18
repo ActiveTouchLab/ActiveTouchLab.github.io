@@ -175,4 +175,27 @@ permalink: /team/
 
 ## Alumni
 
-{% for member in site.data.alumni_members %} {{ member.name }} <br /> {% endfor %}
+### PhD students
+
+{% for member in site.data.alumni_members %} 
+  {%- if member.phd -%}
+    {{ member.phd }} <br /> 
+  {%- endif -%}
+{% endfor %}
+
+
+### MSc dissertation students
+
+{% for member in site.data.alumni_members %} 
+  {%- if member.msc -%}
+    {{ member.msc }} <br /> 
+  {%- endif -%}
+{% endfor %}
+
+### Research assistants, SURE students, visiting students
+
+{% for member in site.data.alumni_members %} 
+  {%- if member.ra -%}
+    {{ member.ra }} <br /> 
+  {%- endif -%}
+{% endfor %}

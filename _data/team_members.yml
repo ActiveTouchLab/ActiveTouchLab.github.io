@@ -76,16 +76,16 @@
   orcid: 0000-0002-4751-1110
   description: I am a PhD student co-supervised by Hannes Saal and Claudia Mazza. I previously worked as a software engineer following my undergraduate degree in Engineering. My project looks at how peripheral neuropathy in the feet affects tactile feedback and reflexes in gait and balance.
 -
-  name: Rory Holmes
-  photo: Rory.png
-  status: CASE PhD Student
-  email: rtholmes1@sheffield.ac.uk
+  name: James R E Hall
+  photo: James.jpg
+  status: Leverhulme PhD Student
+  email: JREHall1@sheffield.ac.uk
   uni-website:
   twitter:
   github:
   gscholar:
   orcid:
-  description: I am a CASE PhD student co-supervised by Hannes Saal and Michael Mangan, working in collaboration with Opteran Technologies. My project aims to develop novel architectures for robotic control, inspired by the sensorimotor systems found in animals and their ability to adapt to changes in the environment and body morphology.
+  description: I am a PhD student supervised by Hannes Saal, having previously completed my Masters thesis in the lab. My research focuses on sub-surface imaging of the skin and understanding how its structure affects touch.
 -
   name: Mia Rupani
   photo: Mia.png
@@ -96,7 +96,7 @@
   github:
   gscholar:
   orcid:
-  description: I am a second year BSc student on the Psychology course at the University of Sheffield. I'm very interested in learning about computational neuroscience and I am currently helping wherever I can with experiments and data analysis.
+  description: I am a third year BSc student on the Psychology course. After working on a SURE project over the summer, I am now writing my dissertation on the perceptual consequences of skin stretch.
 -
   name: Dimitrios Dimitriou
   photo: Dimitrios.jpg
@@ -107,15 +107,4 @@
   github:
   gscholar:
   orcid:
-  description: I am a second year Psychology student, peer learning leader and student ambassador at the University of Sheffield. Additionally, I am honoured to be part of a computational neuroscience group, by providing my assistance in any way necessary and possible.
--
-  name: Raj U Deshpande
-  photo: Raj.jpg
-  status: CCN MSc dissertation student
-  email: rudeshpande1@sheffield.ac.uk
-  uni-website:
-  twitter:
-  github:
-  gscholar:
-  orcid:
-  description: I am a postgraduate student studying cognitive and computational neuroscience. Being a robotics engineering graduate, I am interested in bridging the gap between neuroscience and engineering through exploring imaging technologies and artificial neural networks. My master's project will be focusing on using optical coherence tomography (OCT) to study sub-surface skin features.
+  description: I am a third year Psychology student, peer learning leader and student ambassador at the University of Sheffield. After finishing a SURE project supervised by Laura Edmondson, I am continuing to investigate tactile representations in artificial neural networks.
