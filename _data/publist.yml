@@ -1,7 +1,7 @@
 - title: "Sub-surface deformation of individual fingerprint ridges during tactile interactions"
   image:
   description:
-  authors: Corniani G, Lee Z, Carre MJ, Lewis R, Delhaye BP, Saal HP
+  authors: Corniani G, Lee ZS, Carre MJ, Lewis R, Delhaye BP, Saal HP
   link:
     url: https://doi.org/10.1101/2023.07.02.547395
     display:  bioRxiv, 2023.07.02.547395 (2023)
@@ -14,6 +14,15 @@
   link:
     url: https://doi.org/10.7554/eLife.89616.1
     display:  eLife reviewed preprint, 12:RP89616 (2023)
+  highlight: 0
+
+- title: "Complexity of spatiotemporal plantar pressure patterns during everyday behaviours"
+  image:
+  description:
+  authors: Cleland LD, Rowland HM, Mazzà C, Saal HP
+  link:
+    url: https://doi.org/10.1098/rsif.2023.0052
+    display:  Journal of the Royal Society Interface 20(203), 20230052 (2023)
   highlight: 0
 
 - title: "Modelling novelty detection in the thalamocortical loop"
@@ -34,22 +43,13 @@
     display:  Human Brain Mapping 44(9):3568-3585 (2023)
   highlight: 0
 
-- title: "Complexity of spatiotemporal plantar pressure patterns during everyday behaviours"
-  image:
-  description:
-  authors: Cleland LD, Rowland HM, Mazzà C, Saal HP
-  link:
-    url: https://doi.org/10.1098/rsif.2023.0052
-    display:  Journal of the Royal Society Interface 20(203):20230052 (2023)
-  highlight: 0
-
 - title: "Modelling foot sole cutaneous afferents: FootSim"
   image: footsim.png
   description: We developed a Python simulator that recreates realistic neural responses from tactile afferents terminating in the sole of the foot.
   authors: Katic N, Siqueira RK, Cleland LD, Strzalkowski N, Bent L, Raspopovic S, Saal HP
   link:
     url: https://doi.org/10.1016/j.isci.2022.105874
-    display:  iScience, 26(1):105874 (2023)
+    display:  iScience, 26(1), 105874 (2023)
   highlight: 1
   news1: "Download the Python package from [Github](https://github.com/ActiveTouchLab/footsim-python) or try it out online via [myBinder](https://mybinder.org/v2/gh/ActiveTouchLab/footsim-python/main?filepath=Tutorial.ipynb)."
 
