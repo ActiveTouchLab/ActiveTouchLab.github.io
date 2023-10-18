@@ -1,10 +1,19 @@
+- title: "Sub-surface deformation of individual fingerprint ridges during tactile interactions"
+  image:
+  description:
+  authors: Corniani G, Lee Z, Carre MJ, Lewis R, Delhaye BP, Saal HP
+  link:
+    url: https://doi.org/10.1101/2023.07.02.547395
+    display:  bioRxiv, 2023.07.02.547395 (2023)
+  highlight: 0
+
 - title: "Memory at your fingertips: how viscoelasticity affects tactile neuron signaling"
   image:
   description:
   authors: Saal HP, Birznieks I, Johansson RS
   link:
-    url: https://doi.org/10.1101/2023.05.15.540820
-    display:  bioRxiv, 2023.05.15.540820 (2023)
+    url: https://doi.org/10.7554/eLife.89616.1
+    display:  eLife reviewed preprint, 12:RP89616 (2023)
   highlight: 0
 
 - title: "Modelling novelty detection in the thalamocortical loop"
@@ -22,7 +31,7 @@
   authors: Sanders Z, Dempsey-Jones H, Wesselink DB, Edmondson LR, Puckett AM, Saal HP, Makin TR
   link:
     url: https://doi.org/10.1002/hbm.26298
-    display:  Human Brain Mapping (2023)
+    display:  Human Brain Mapping 44(9):3568-3585 (2023)
   highlight: 0
 
 - title: "Complexity of spatiotemporal plantar pressure patterns during everyday behaviours"
@@ -30,8 +39,8 @@
   description:
   authors: Cleland LD, Rowland HM, Mazzà C, Saal HP
   link:
-    url: https://doi.org/10.1101/2023.01.27.525870
-    display:  bioRxiv, 2023.01.27.525870 (2023)
+    url: https://doi.org/10.1098/rsif.2023.0052
+    display:  Journal of the Royal Society Interface 20(203):20230052 (2023)
   highlight: 0
 
 - title: "Modelling foot sole cutaneous afferents: FootSim"
