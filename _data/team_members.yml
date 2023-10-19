@@ -32,17 +32,6 @@
   orcid: 0000-0001-9886-1121
   description: I am a research associate investigating mechanisms that influence topography and magnification in the somatosensory cortex of both humans and non-human primates. I was previously a PhD student in the lab, focusing on modelling somatosensory cortex using dimensionality reduction techniques and self-organising models.
 -
-  name: Dr Giulia Corniani
-  photo: Giulia.png
-  status: Marie Curie fellow
-  email: gcorniani1@sheffield.ac.uk
-  uni-website:
-  twitter: CornianiGiulia
-  github:
-  gscholar: qyQ9xX0AAAAJ
-  orcid: 0000-0003-2800-3329
-  description: I am a research fellow supervised by Hannes Saal. I am part of the <a href="https://neutouch.eu/">NeuTouch</a> project, included in the EU Horizon 2020 research and innovation programme. My research focuses on spiking models of realistic human tactile interactions. I am interested in the development of a computational method that translates sensor input into spiking output to deliver realistic and real-time tactile feedback for neuroprosthetics and robotics.
--
   name: Luke D Cleland
   photo: Luke.jpg
   status: MRC DiMeN PhD Student
@@ -108,3 +97,14 @@
   gscholar:
   orcid:
   description: I am a third year Psychology student, peer learning leader and student ambassador at the University of Sheffield. After finishing a SURE project supervised by Laura Edmondson, I am continuing to investigate tactile representations in artificial neural networks.
+-
+  name: Celia R Blaise
+  photo: Celia.jpg
+  status: Research Assistant
+  email: CBlaise1@sheffield.ac.uk
+  uni-website:
+  twitter:
+  github:
+  gscholar:
+  orcid:
+  description: I'm a Masters student in the <a href="https://www.sheffield.ac.uk/postgraduate/taught/courses/2024/cognitive-studies-ma">Cognitive Studies</a> program at Sheffield and. I'm very interested in the intersections between Philosophy and Psychology and Neuroscience research.
