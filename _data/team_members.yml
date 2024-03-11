@@ -76,6 +76,17 @@
   orcid:
   description: I am a PhD student supervised by Hannes Saal, having previously completed my Masters thesis in the lab. My research focuses on sub-surface imaging of the skin and understanding how its structure affects touch.
 -
+  name: Olivia M Wallis
+  photo: Olivia.png
+  status: CCN MSc student
+  email: omwallis1@sheffield.ac.uk
+  uni-website:
+  twitter:
+  github:
+  gscholar:
+  orcid:
+  description: I am a Cognitive and Computational Master's student at Sheffield University, having previously graduated with a Neuroscience BSc. My Master's project, supervised by Hannes Saal, centres on image segmentation and processing techniques to investigate the role of skin structure in touch perception.
+-
   name: Mia Rupani
   photo: Mia.png
   status: Research Intern / Technical Support
