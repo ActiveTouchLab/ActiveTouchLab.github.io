@@ -89,7 +89,7 @@
 -
   name: Mia Rupani
   photo: Mia.png
-  status: Research Intern / Technical Support
+  status: Research Assistant / SURE fellow
   email: mrupani1@sheffield.ac.uk
   uni-website:
   twitter:
@@ -100,7 +100,7 @@
 -
   name: Dimitrios Dimitriou
   photo: Dimitrios.jpg
-  status: Research Intern
+  status: Research Assistant / SURE fellow
   email: ddimitriou1@sheffield.ac.uk
   uni-website:
   twitter:
@@ -117,5 +117,16 @@
   twitter:
   github:
   gscholar:
+  orcid: 0009-0006-9646-7394
+  description: I'm a Masters student in the <a href="https://www.sheffield.ac.uk/postgraduate/taught/courses/2024/cognitive-studies-ma">Cognitive Studies</a> program at Sheffield and I'm very interested in the intersections between Philosophy, Psychology, and Neuroscience research.
+-
+  name: Holly C Clark
+  photo: HollyC.jpeg
+  status: Research Assistant
+  email: 	HClark8@sheffield.ac.uk
+  uni-website:
+  twitter:
+  github:
+  gscholar:
   orcid:
-  description: I'm a Masters student in the <a href="https://www.sheffield.ac.uk/postgraduate/taught/courses/2024/cognitive-studies-ma">Cognitive Studies</a> program at Sheffield and. I'm very interested in the intersections between Philosophy and Psychology and Neuroscience research.
+  description: I am a first year BSc Psychology student at the University of Sheffield, particularly interested in Cognitive Psychology and Neuroscience. I am currently learning from the lab team as they develop their research and assisting them wherever I can.
