@@ -76,28 +76,6 @@
   orcid:
   description: I am a Cognitive and Computational Master's student at Sheffield University, having previously graduated with a Neuroscience BSc. My Master's project, supervised by Hannes Saal, centres on image segmentation and processing techniques to investigate the role of skin structure in touch perception.
 -
-  name: Mia Rupani
-  photo: Mia.png
-  status: Research Assistant / SURE fellow
-  email: mrupani1@sheffield.ac.uk
-  uni-website:
-  twitter:
-  github:
-  gscholar:
-  orcid:
-  description: I am a third year BSc student on the Psychology course. After working on a SURE project over the summer, I am now writing my dissertation on the perceptual consequences of skin stretch.
--
-  name: Dimitrios Dimitriou
-  photo: Dimitrios.jpg
-  status: Research Assistant / SURE fellow
-  email: ddimitriou1@sheffield.ac.uk
-  uni-website:
-  twitter:
-  github:
-  gscholar:
-  orcid:
-  description: I am a third year Psychology student, peer learning leader and student ambassador at the University of Sheffield. After finishing a SURE project supervised by Laura Edmondson, I am continuing to investigate tactile representations in artificial neural networks.
--
   name: Celia R Blaise
   photo: Celia.jpg
   status: Research Assistant
@@ -119,3 +97,14 @@
   gscholar:
   orcid:
   description: I am a first year BSc Psychology student at the University of Sheffield, particularly interested in Cognitive Psychology and Neuroscience. I am currently learning from the lab team as they develop their research and assisting them wherever I can.
+-
+  name: Daisy Rusdale
+  photo: Daisy.jpg
+  status: Research Assistant
+  email: drusdale1@sheffield.ac.uk
+  uni-website:
+  twitter:
+  github:
+  gscholar:
+  orcid:
+  description: I am a cognitive neuroscience and human neuroimaging masters student at Sheffield, particularly interested in neuroscientific research that explores the impact of diseases on the body's systems including the skin and brain.
