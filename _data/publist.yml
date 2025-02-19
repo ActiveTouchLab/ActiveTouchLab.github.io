@@ -1,11 +1,11 @@
 - title: "Local postural changes elicit extensive and diverse skin stretch around joints, on the trunk, and the face"
-  image:
-  description:
+  image: stretch.png
+  description: We used 3D imaging to measure skin stretch on various body regions during different poses, and found that stretch is widespread and often complex, potentially providing the brain with a rich source of information about our body's posture and local geometry.
   authors: Rupani M, Cleland LD, Saal HP
   link:
-    url: https://doi.org/10.1101/2024.10.21.619390
-    display:  bioRxiv, 2024.10.21.619390 (2024)
-  highlight: 0
+    url: https://doi.org/10.1098/rsif.2024.0794
+    display:  Journal of the Royal Society Interface 22(223), 20240794 (2025)
+  highlight: 1
 
 - title: "Texture perception at the foot sole: Comparison between walking, sitting, and to the hand"
   image:
