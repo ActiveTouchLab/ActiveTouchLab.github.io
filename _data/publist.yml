@@ -1,3 +1,12 @@
+- title: "Can we tell where our bodies end and the world begins? Evidence for precise three-dimensional internal body models"
+  image:
+  description:
+  authors: Blaise CR, Clark HC, Saal HP
+  link:
+    url: https://doi.org/10.1101/2025.03.28.645649
+    display:  bioRxiv, 2025.03.28.645649 (2025)
+  highlight: 0
+
 - title: "Local postural changes elicit extensive and diverse skin stretch around joints, on the trunk, and the face"
   image: stretch.png
   description: We used 3D imaging to measure skin stretch on various body regions during different poses, and found that stretch is widespread and often complex, potentially providing the brain with a rich source of information about our body's posture and local geometry.
