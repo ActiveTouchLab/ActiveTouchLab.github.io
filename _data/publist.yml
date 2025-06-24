@@ -1,3 +1,14 @@
+- title: "Fingertip viscoelasticity enables human tactile neurons to encode loading history alongside current force"
+  image: hysteresis.gif
+  description: We found that tactile neurons in the fingertip respond to both the current stimulation as well as the recent loading history, driven by the viscoelasticity of the skin. Spontaneously active SA2 neurons encoded the ongoing deformation state of the skin, even in periods when the skin was not actively stimulated.
+  authors: Saal HP, Birznieks I, Johansson RS
+  link:
+    url: https://doi.org/10.7554/eLife.89616.1
+    display:  eLife, 12:RP89616 (2025)
+  highlight: 1
+  news1: "Read the [eLife Insight](https://elifesciences.org/articles/107620) by Watson and Ackerley."
+
+
 - title: "Can we tell where our bodies end and the world begins? Evidence for precise three-dimensional internal body models"
   image:
   description:
@@ -43,15 +54,6 @@
     display:  eLife reviewed preprint, 13:RP93554 (2024)
   highlight: 0
 
-- title: "Memory at your fingertips: how viscoelasticity affects tactile neuron signaling"
-  image:
-  description:
-  authors: Saal HP, Birznieks I, Johansson RS
-  link:
-    url: https://doi.org/10.7554/eLife.89616.1
-    display:  eLife reviewed preprint, 12:RP89616 (2023)
-  highlight: 0
-
 - title: "Complexity of spatiotemporal plantar pressure patterns during everyday behaviours"
   image:
   description:
@@ -86,7 +88,7 @@
   link:
     url: https://doi.org/10.1016/j.isci.2022.105874
     display:  iScience, 26(1), 105874 (2023)
-  highlight: 1
+  highlight: 0
   news1: "Download the Python package from [Github](https://github.com/ActiveTouchLab/footsim-python) or try it out online via [myBinder](https://mybinder.org/v2/gh/ActiveTouchLab/footsim-python/main?filepath=Tutorial.ipynb)."
 
 - title: "Population coding strategies in human tactile afferents"
