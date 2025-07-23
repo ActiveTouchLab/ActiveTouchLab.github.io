@@ -10,22 +10,11 @@
   orcid: 0000-0002-7544-0196
   description: I studied <a href="https://www.ikw.uni-osnabrueck.de/en/home.html">Cognitive Science</a> at the University of Osnabrück, Germany. After an internship at the <a href="https://www.dlr.de/rm/en/desktopdefault.aspx/tabid-8017">German Aerospace Center (DLR)</a>, I obtained an MSc and PhD in Neuroinformatics at the <a href="https://www.ed.ac.uk/informatics">University of Edinburgh</a>. I was then a postdoctoral scholar in <a href="https://bensmaialab.github.io/">Sliman Bensmaia's lab</a> at the University of Chicago, before joining the <a href="https://www.sheffield.ac.uk/psychology">University of Sheffield</a> to set up my own lab. For most of my career I have worked on the sense of touch, using methods from computational neuroscience, robotics, and machine learning.
 -
-  name: Dr Rodrigo Siqueira Kazu
-  photo: Rodrigo.png
-  status: Data Scientist
-  email: r.siqueiradesouza@sheffield.ac.uk
-  uni-website: https://www.sheffield.ac.uk/psychology/postgraduate/international
-  twitter: DrRodrigoKazu
-  github: rodrigokazu
-  gscholar: 9L_gpmUAAAAJ
-  orcid: 0000-0002-3511-6439
-  description: I am a research associate in computational neuroscience with experience in complex networks, comparative neuroanatomy and cell culturing. In the Active Touch Lab I am helping people walk again by modelling the tactile responses of the foot sole aiming at real-time feedback prosthetics! In addition to that, I am a member of INSIGNEO and a data scientist for the AMRC at the University of Sheffield. My research interests include general intelligence, network neuroscience and information processing in the somatosensory cortex. 
--
   name: Dr Laura R Edmondson
   photo: Laura.png
   status: Research Associate
   email: l.r.edmondson@sheffield.ac.uk
-  uni-website: https://www.lredmondson.com/
+  uni-website:
   twitter: lauraredmondson
   github: lauraredmondson
   gscholar: odumS-QAAAAJ
@@ -43,17 +32,6 @@
   orcid: 0000-0001-8486-2780
   description: My research focuses on the role of the tactile system in balance and gait using a combination of computational and experimental techniques.
 -
-  name: Zijun Li
-  photo: Zijun.png
-  status: PhD Student
-  email: zli241@sheffield.ac.uk
-  uni-website:
-  twitter: zijunli12
-  github:
-  gscholar:
-  orcid: 0000-0002-7343-2686
-  description: I am a PhD student supervised by Hannes Saal. I am principally interested in modelling the development of the human somatotopy. My research also involves neuroimaging and psychophysical approaches.
--
   name: James R E Hall
   photo: James.jpg
   status: Leverhulme PhD Student
@@ -65,46 +43,24 @@
   orcid:
   description: I am a PhD student supervised by Hannes Saal, having previously completed my Masters thesis in the lab. My research focuses on sub-surface imaging of the skin and understanding how its structure affects touch.
 -
-  name: Olivia M Wallis
-  photo: Olivia.png
-  status: CCN MSc student
-  email: omwallis1@sheffield.ac.uk
-  uni-website:
-  twitter:
-  github:
-  gscholar:
-  orcid:
-  description: I am a Cognitive and Computational Master's student at Sheffield University, having previously graduated with a Neuroscience BSc. My Master's project, supervised by Hannes Saal, centres on image segmentation and processing techniques to investigate the role of skin structure in touch perception.
--
   name: Celia R Blaise
   photo: Celia.jpg
   status: Research Assistant
-  email: CBlaise1@sheffield.ac.uk
+  email: c.blaise@sheffield.ac.uk
   uni-website:
   twitter:
   github:
-  gscholar:
+  gscholar: CPbgjs4AAAAJ
   orcid: 0009-0006-9646-7394
   description: I'm a Masters student in the <a href="https://www.sheffield.ac.uk/postgraduate/taught/courses/2024/cognitive-studies-ma">Cognitive Studies</a> program at Sheffield and I'm very interested in the intersections between Philosophy, Psychology, and Neuroscience research.
 -
-  name: Holly C Clark
-  photo: HollyC.jpeg
-  status: Research Assistant
-  email: 	HClark8@sheffield.ac.uk
+  name: Joseph D Banerjee
+  photo: Joe.jpg
+  status: CCN MSc student
+  email: JDBanerjee1@sheffield.ac.uk
   uni-website:
   twitter:
   github:
   gscholar:
   orcid:
-  description: I am a first year BSc Psychology student at the University of Sheffield, particularly interested in Cognitive Psychology and Neuroscience. I am currently learning from the lab team as they develop their research and assisting them wherever I can.
--
-  name: Daisy Rusdale
-  photo: Daisy.jpg
-  status: Research Assistant
-  email: drusdale1@sheffield.ac.uk
-  uni-website:
-  twitter:
-  github:
-  gscholar:
-  orcid:
-  description: I am a cognitive neuroscience and human neuroimaging masters student at Sheffield, particularly interested in neuroscientific research that explores the impact of diseases on the body's systems including the skin and brain.
+  description: I am a <a href="https://sheffield.ac.uk/postgraduate/taught/courses/2025/cognitive-and-computational-neuroscience-msc">Cognitive and Computational Master's </a> student, currently intercalating from my undergraduate degree in medicine at the University of Sheffield. My dissertation project involves using computational modelling to explore the stochastic resonance effect in the tactile system.
