@@ -175,6 +175,14 @@ permalink: /team/
 
 ## Alumni
 
+### Postdocs
+
+{% for member in site.data.alumni_members %} 
+  {%- if member.pdra -%}
+    {{ member.pdra }} <br /> 
+  {%- endif -%}
+{% endfor %}
+
 ### PhD students
 
 {% for member in site.data.alumni_members %} 
