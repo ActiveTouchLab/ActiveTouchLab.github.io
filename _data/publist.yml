@@ -1,3 +1,12 @@
+- title: "Can we tell where our bodies end and the world begins? Evidence for precise three-dimensional internal body models"
+  image: blaise.png
+  description: We found that humans possess remarkably precise, millimetre-accurate internal 3D body models for self-boundary perception, though accuracy can vary by body region and is influenced by both proprioception and top-down cognitive processes.
+  authors: Blaise CR, Clark HC, Saal HP
+  link:
+    url: https://doi.org/10.1098/rspb.2025.1255
+    display: Proceedings of the Royal Society B 292, 20251255 (2025)
+  highlight: 1
+
 - title: "Fingertip viscoelasticity enables human tactile neurons to encode loading history alongside current force"
   image: hysteresis.gif
   description: We found that tactile neurons in the fingertip respond to both the current stimulation as well as the recent loading history, driven by the viscoelasticity of the skin. Spontaneously active SA2 neurons encoded the ongoing deformation state of the skin, even in periods when the skin was not actively stimulated.
@@ -7,15 +16,6 @@
     display:  eLife, 12:RP89616 (2025)
   highlight: 1
   news1: "Read the [eLife Insight](https://elifesciences.org/articles/107620) by Watson and Ackerley."
-
-- title: "Can we tell where our bodies end and the world begins? Evidence for precise three-dimensional internal body models"
-  image:
-  description:
-  authors: Blaise CR, Clark HC, Saal HP
-  link:
-    url: https://doi.org/10.1101/2025.03.28.645649
-    display:  bioRxiv, 2025.03.28.645649 (2025)
-  highlight: 0
 
 - title: "Local postural changes elicit extensive and diverse skin stretch around joints, on the trunk, and the face"
   image: stretch.png
@@ -134,7 +134,7 @@
   link:
     url: https://doi.org/10.1152/jn.00313.2020
     display:  Journal of Neurophysiology 124(4), 1229-1240 (2020)
-  highlight: 1
+  highlight: 0
   news1: Check out the <a href="https://figshare.shef.ac.uk/articles/dataset/Supplemental_data_for_Tactile_innervation_densities_across_the_whole_body/12753650">Supplementary Material</a> for detailed calculations.
 
 - title: "Nonlinear scaling of resource allocation in sensory bottlenecks"
