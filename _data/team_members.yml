@@ -43,6 +43,17 @@
   orcid: 0009-0001-3827-853X
   description: I am a PhD student supervised by Hannes Saal, having previously completed my Masters thesis in the lab. My research focuses on sub-surface imaging of the skin and understanding how its structure affects touch.
 -
+  name: Johnson Shi
+  photo: Johnson.jpg
+  status: PhD Student
+  email: sshi20@sheffield.ac.uk
+  uni-website:
+  twitter:
+  github:
+  gscholar:
+  orcid:
+  description: I am a PhD student supervised by Hannes Saal. My background is in psychology and machine learning. My interest is in bridging the techniques and understanding of the two fields. My current research focuses on the computational principles underlying mechanoreception on the hand.
+-
   name: Celia R Blaise
   photo: Celia.jpg
   status: Research Assistant
