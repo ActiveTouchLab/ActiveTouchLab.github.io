@@ -1,3 +1,12 @@
+- title: "Sub-surface deformation of individual fingerprint ridges during tactile interactions"
+  image: EdgeVideoZoom_LoRes.gif
+  description: We used optical coherence tomography to image and track the sub-surface deformation of individual fingerprint ridges in human fingertips, revealing that ridges primarily deform through stretching, compression, and vertical shearing, rather than horizontal bending as assumed in some theories of ridge biomechanics.
+  authors: Corniani G, Lee ZS, Carre MJ, Lewis R, Delhaye BP, Saal HP
+  link:
+    url: https://doi.org/10.7554/eLife.93554
+    display:  eLife, 13:RP93554 (2025)
+  highlight: 1
+
 - title: "Can we tell where our bodies end and the external world begins? Evidence for precise three-dimensional internal body models"
   image: blaise.png
   description: We found that humans possess remarkably precise, millimetre-accurate internal 3D body models for self-boundary perception, though accuracy can vary by body region and is influenced by both proprioception and top-down cognitive processes.
@@ -42,15 +51,6 @@
   link:
     url: https://doi.org/10.1101/2023.11.10.565040
     display:  bioRxiv, 2023.11.10.565040 (2024)
-  highlight: 0
-
-- title: "Sub-surface deformation of individual fingerprint ridges during tactile interactions"
-  image:
-  description:
-  authors: Corniani G, Lee ZS, Carre MJ, Lewis R, Delhaye BP, Saal HP
-  link:
-    url: https://doi.org/10.7554/eLife.93554.1
-    display:  eLife reviewed preprint, 13:RP93554 (2024)
   highlight: 0
 
 - title: "Complexity of spatiotemporal plantar pressure patterns during everyday behaviours"
@@ -106,7 +106,7 @@
   link:
     url: https://doi.org/10.7554/eLife.70777
     display:  eLife 11, e70777 (2022)
-  highlight: 1
+  highlight: 0
   news1:
 
 - title: "Getting a grasp on BMIs: Decoding prehension and speech signals"
