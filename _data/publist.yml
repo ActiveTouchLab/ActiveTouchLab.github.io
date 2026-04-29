@@ -1,3 +1,12 @@
+- title: "Biomechanical filtering supports efficient tactile encoding in the human hand"
+  image:
+  description:
+  authors: Tummala N, Reardon G, Dandu B, Shao Y, Saal HP, Visell Y
+  link:
+    url: https://doi.org/10.1098/rsif.2025.0793
+    display:  Journal of the Royal Society Interface 23(237), 20250793 (2026)
+  highlight: 0
+
 - title: "Sub-surface deformation of individual fingerprint ridges during tactile interactions"
   image: EdgeVideoZoom_LoRes.gif
   description: We used optical coherence tomography to image and track the sub-surface deformation of individual fingerprint ridges in human fingertips, revealing that ridges primarily deform through stretching, compression, and vertical shearing, rather than horizontal bending as assumed in some theories of ridge biomechanics.
@@ -42,15 +51,6 @@
   link:
     url: https://doi.org/10.1152/jn.00170.2024
     display:  Journal of Neurophysiology 132(3), 643-652 (2024) <a/><i>[see also the <a href="https://doi.org/10.1152/jn.00420.2024">Editorial Focus</a> by Rochelle Ackerley and a <a href="https://doi.org/10.1152/jn.00548.2024">Mini-Review</a> by Samia Vanderkolff et al.]</i><a>
-  highlight: 0
-
-- title: "Biomechanical filtering supports efficient tactile encoding in the human hand"
-  image:
-  description:
-  authors: Tummala N, Reardon G, Dandu B, Shao Y, Saal HP, Visell Y
-  link:
-    url: https://doi.org/10.1101/2023.11.10.565040
-    display:  bioRxiv, 2023.11.10.565040 (2024)
   highlight: 0
 
 - title: "Complexity of spatiotemporal plantar pressure patterns during everyday behaviours"
