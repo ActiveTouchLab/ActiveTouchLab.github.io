@@ -1,3 +1,12 @@
+- title: "Illusory cold desensitizes touch"
+  image:
+  description: 
+  authors: Ramirez JC, Vergara J, Kim B, Saal HP, Yau JM
+  link:
+    url: https://doi.org/10.1016/j.cub.2026.10.025
+    display:  Current Biology 36, 1-11 (2026)
+  highlight: 0
+
 - title: "Epidermal microstructure and tactile sensitivity in the glabrous skin of hands and feet"
   image: skin_structure.png
   description: We generated detailed 3D models of the epidermis at six sites across the hands and feet, and found that tactile sensitivity depends not only on skin thickness and innervation density but also on the fine-scale geometry of papillary ridges.
@@ -14,15 +23,6 @@
   link:
     url: https://doi.org/10.1088/2634-4386/ae98b0
     display: Neuromorphic Computing and Engineering 6(3), 034017 (2026)
-  highlight: 0
-
-- title: "Illusory cold desensitizes touch"
-  image:
-  description:
-  authors: Ramirez JC, Vergara J, Kim B, Saal HP, Yau JM
-  link:
-    url: https://doi.org/10.64898/2026.06.02.729707
-    display:  bioRxiv, 2026.06.02.729707 (2026)
   highlight: 0
 
 - title: "Biomechanical filtering supports efficient tactile encoding in the human hand"

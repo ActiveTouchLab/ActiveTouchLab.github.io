@@ -43,8 +43,8 @@ We build large-scale models that simulate population responses from thousands of
 Using careful psychophysical testing, we explore how we perceive both external objects and our own body through the sense of touch.
 
 **Example publications:**
+- [Illusory cold desensitizes touch](https://doi.org/10.1016/j.cub.2026.10.025)
 - [Can we tell where our bodies end and the external world begins? Evidence for precise three-dimensional internal body models](https://doi.org/10.1098/rspb.2025.1255)
-- [Texture perception at the foot sole: Comparison between walking, sitting, and to the hand](https://doi.org/10.1152/jn.00170.2024)
 
 ## Cortical coding and plasticity
 
